@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Blog de Livres</h1>
+     <nav class="navbar navbar-dark bg-secondary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">← Retour au catalogue</a>
+        </div>
+    </nav>
+     <main class="container my-4">
+        <article id="book-detail"></article>
+
+        <section class="mt-4">
+            <h3>Reviews</h3>
+            <div id="reviews-list"></div>
+        </section>
+      <section>
+        <h4>rating</h4>
+        <form id="review-form" style="max-width: 500px;">
+            <input type="text" id="input-name" class="form-control mb-2" placeholder="Nom" required>
+            <select id="input-rating" class="form-select mb-2" required>
+                <option value="5">5 - Excellent</option>
+                <option value="4">4 - Très bien</option>
+                </select>
+            <textarea id="input-comment" class="form-control mb-2" placeholder="Votre commentaire" required></textarea>
+            <button type="submit" class="btn btn-primary">Envoyer</button>
+        </form>
+    </section>
+      <script src="js/book.js"></script>
+      <footer class="bg-dark text-white text-center py-2 mt-4">
+        <p>© 2025 Blog de Livres </p>
+    </footer>
+    
+</body>
+</html>

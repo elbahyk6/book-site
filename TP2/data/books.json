@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Guide",
+    "author": "John Doe",
+    "image": "images/picjs.jpg",
+    "description": "Un guide complet pour apprendre JavaScript moderne.",
+    "rating": 4.2,
+    "genre": "Programmation"
+  },
+  {
+    "id": 2,
+    "title": "CSS Mastery",
+    "author": "Anna Smith",
+    "image": "images/css.jpeg",
+    "description": "Maîtrisez CSS avancé : Flexbox, Grid, animations et design responsive.",
+    "rating": 4.5,
+    "genre": "Design"
+  },
+  {
+    "id": 3,
+    "title": "HTML5 & Web Design",
+    "author": "Michael Brown",
+    "image": "images/html.jpg",
+    "description": "Découvrez HTML5 et ses nouvelles fonctionnalités.",
+    "rating": 4.1,
+    "genre": "Programmation"
+  },
+  {
+    "id": 4,
+    "title": "Learning Bootstrap",
+    "author": "Sarah Wilson",
+    "image": "images/bootstrap.jpeg",
+    "description": "Créez des interfaces web responsives avec Bootstrap 5.",
+    "rating": 4.3,
+    "genre": "Design"
+  }
+]

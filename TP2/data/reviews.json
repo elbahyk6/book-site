@@ -1,0 +1,8 @@
+[
+    { "bookId": 1, "user": "Ali",    "rating": 5, "comment": "Excellent livre pour apprendre JavaScript !" },
+    { "bookId": 1, "user": "Sofia",  "rating": 4, "comment": "Très bien expliqué, je recommande." },
+    { "bookId": 2, "user": "Karim",  "rating": 5, "comment": "Le meilleur livre pour CSS !" },
+    { "bookId": 2, "user": "Nadia",  "rating": 4, "comment": "Très complet sur Flexbox et Grid." },
+    { "bookId": 3, "user": "Youssef","rating": 4, "comment": "Bonne introduction à HTML5." },
+    { "bookId": 4, "user": "Omar",   "rating": 5, "comment": "Bootstrap expliqué clairement." }
+]
